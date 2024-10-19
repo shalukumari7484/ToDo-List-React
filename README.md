@@ -146,7 +146,6 @@ Used for updating or deleting tasks.
 **GitHub Profile:** https://github.com/shalukumari7484
 
 
-**Repository Link:** https://github.com/shalukumari7484/Board-Infinity-Assignment
-
+**Repository Link:** https://github.com/shalukumari7484/ToDo-List-React
 
 **Demo Link:** to-do-list-react-b8qgvpgmv-shalukumari7484s-projects.vercel.app
