@@ -149,4 +149,4 @@ Used for updating or deleting tasks.
 **Repository Link:** https://github.com/shalukumari7484/Board-Infinity-Assignment
 
 
-**Demo Link:** https://board-infinity-assignment-hzrakmve5-shalukumari7484s-projects.vercel.app/
+**Demo Link:** to-do-list-react-b8qgvpgmv-shalukumari7484s-projects.vercel.app
